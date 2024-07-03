@@ -1,3 +1,12 @@
+✨ Key Features:
+
+Add new comments and replies
+Edit existing comments
+Delete comments
+Maintain nested structure for replies
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
